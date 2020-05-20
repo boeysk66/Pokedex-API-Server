@@ -20,7 +20,9 @@ Data persisted on mySQL using JPA.
 
 application.properties:
 spring.datasource.url : define DB source
+
 spring.datasource.username : define DB user name
+
 spring.datasource.password : define DB user password
 
 ## Test Cases
