@@ -19,6 +19,7 @@ Data persisted on mySQL using JPA.
 ![Screenshot of DB Config](DBConfig.png)
 
 application.properties:
+
 spring.datasource.url : define DB source
 
 spring.datasource.username : define DB user name
