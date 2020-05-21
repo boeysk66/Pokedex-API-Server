@@ -77,5 +77,5 @@ Player 1: SK1 -> SK1_New
 
 7. Refresh of Player List
 
-Player 1: SK1_New, Player 2 deleted
+Player 1: SK1_New, Player 2 (deleted)
 ![Screenshot of Player List Refresh](PlayerListRefreshed.png)
