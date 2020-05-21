@@ -1,5 +1,5 @@
 # Pokedex-API-Server
-A Spring-boot MVC application with a REST controller for Pokemon application. It has one-to-many relation for Player and Pokemon. Each Pokemon has a Player attached to.
+A Spring-boot MVC application with a REST controller for Pokemon application. It has one-to-many relation for Player and Pokemon. Each Pokemon has a Player attached to it.
 
 ## Built With
 The following technologies:
