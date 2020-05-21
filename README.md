@@ -32,11 +32,13 @@ To run it, right click on PokeDexDemoApplication.java -> Run As -> Java Applicat
 
 1. Player 1 and Player 2 Creation
 
+Player 1: SK1
 ![Screenshot of Player 1 Creation](Player1Created.png)
 
+Player 2: SK2
 ![Screenshot of Player 2 Creation](Player2Created.png)
 
-2. List Player 1 and Player 2
+2. List of Player 1 and Player 2
 
 ![Screenshot of List of Player 1](ListAllPlayers_1.png)
 
@@ -44,16 +46,16 @@ To run it, right click on PokeDexDemoApplication.java -> Run As -> Java Applicat
 
 3. Pokemons created for Player 2
 
-First Catch:
+First Catch: Bulbasaur (level 1)
 ![Screenshot of Pokemon created for Player 2](PokemonCreatedForPlayer2_1.png)
 
-Second Catch:
+Second Catch: Bulbasaur (level 10)
 ![Screenshot of Pokemon created for Player 2](PokemonCreatedForPlayer2_2.png)
 
-Third Catch:
+Third Catch: Bulbasaur (level 1)
 ![Screenshot of Pokemon created for Player 2](PokemonCreatedForPlayer2_3.png)
 
-Fourth Catch:
+Fourth Catch: Ivysaur (level 2)
 ![Screenshot of Pokemon created for Player 2](PokemonCreatedForPlayer2_4.png)
 
 4. Pokemon Inventory Summary for Player 1 and Player 2
@@ -64,12 +66,13 @@ Fourth Catch:
 
 5. Update Name for Player 1
 
+Player 1: SK1 -> SK1_New
 ![Screenshot of Name Update for Player 1](Player1_UpdatedName.png)
 
 6. Delete Player 2
 
 ![Screenshot of Deletion of Player 2](Player2_Deleted.png)
 
-7. Player List Refresh
+7. Refresh of Player List
 
 ![Screenshot of Player List Refresh](PlayerListRefreshed.png)
