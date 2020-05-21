@@ -60,8 +60,10 @@ Fourth Catch: Ivysaur (level 2)
 
 4. Pokemon Inventory Summary for Player 1 and Player 2
 
+Player 1: Empty Pokemon basket
 ![Screenshot of Pokemon Inventory Summary for Player 1](PokemonInventorySummaryForPlayer1.png)
 
+Player 2: Pokemon basket: 2 Bulbasaur (level 1) + 1 Bulbasaur (level 10) + 1 Ivysaur (level 2)
 ![Screenshot of Pokemon Inventory Summary for Player 2](PokemonInventorySummaryForPlayer2.png)
 
 5. Update Name for Player 1
@@ -75,4 +77,5 @@ Player 1: SK1 -> SK1_New
 
 7. Refresh of Player List
 
+Player 1: SK1_New, Player 2 deleted
 ![Screenshot of Player List Refresh](PlayerListRefreshed.png)
